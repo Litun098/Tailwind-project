@@ -16,7 +16,7 @@ const Hero = () => {
                     <button className='py-1 px-6 sm:w-[60%] my-4'>Get Started</button>
                 </div>
                 <div>
-                    <img className='w-full' src={bgImg} />
+                    <img className='w-full' src={bgImg} alt='background_image' />
                 </div>
 
                 <div className='abslute flex flex-col py-8 md:min-w-[760px] bottom-[5%] mx-1 md:left-1/2 transform lg:translate-x-[25%] bg-zinc-200 border-slate-300 rounded-xl text-center shadow-xl'>
